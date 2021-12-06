@@ -5,7 +5,8 @@ Bobby was given a chance to assist the Human Resource Dept at Pewlett Hackard. B
 •	Data Source: Employee_Database_challenge.sql
 •	Data Tools and Softwares: PostgreSQL, pgAdmin, Visual Studio Code
 
-## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+## Results: 
+Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 Initially, data was derived from 6 independent tables that were closely analyzed and were eventually joined together to obtain the following results;
 1.	Tables/data as relationship were collected, analyzed and Primary and Foreign keys assigned : https://github.com/Elsa050464/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png
 
