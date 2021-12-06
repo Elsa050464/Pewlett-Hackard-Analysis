@@ -10,14 +10,14 @@ Initially, data was derived from 6 independent tables that were closely analyzed
 1.	Tables/data as relationship were collected, analyzed and Primary and Foreign keys assigned : https://github.com/Elsa050464/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png
 
 2.	retirement_titles.csv – total number of titles  
-The results 
+![image](https://user-images.githubusercontent.com/93121665/144823076-673011b2-3546-49bf-9166-e2ca24f0fe04.png)
 
 3.	unique_titles.csv – eliminate duplication of titles 
- 
- 
-
+ ![image](https://user-images.githubusercontent.com/93121665/144823124-a47a5cb0-fb29-4e02-9768-470092d23da0.png)
+![image](https://user-images.githubusercontent.com/93121665/144823204-f19d546e-f1a7-42c3-b218-bc75595646bc.png)
 4.	mentorship_eligibilty.csv – No Only 1940 can participate in the Mentorship program
- 
+ ![image](https://user-images.githubusercontent.com/93121665/144823251-b64a8cab-cbf4-465b-9290-fd8bc7a41fc4.png)
+
 
 ## Summary
 •	Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami.":
